@@ -51,7 +51,7 @@ npm run dev
 ```
 ## 🗂️ Estrutura de Pastas
 
-/app         -> Páginas e rotas
-/components  -> Componentes reutilizáveis
-/prisma      -> Schema e migrations do banco de dados
-/public      -> Arquivos estáticos
+- /app         -> Páginas e rotas
+- /components  -> Componentes reutilizáveis
+- /prisma      -> Schema e migrations do banco de dados
+- /public      -> Arquivos estáticos
