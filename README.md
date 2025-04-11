@@ -48,3 +48,10 @@ npx prisma migrate dev
 
 # Rode o projeto
 npm run dev
+
+## 🗂️ Estrutura de Pastas
+
+- /app         -> Páginas e rotas
+- /components  -> Componentes reutilizáveis
+- /prisma      -> Schema e migrations do banco de dados
+- /public      -> Arquivos estáticos
