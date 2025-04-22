@@ -11,7 +11,7 @@ Sistema de controle financeiro feito para pequenos negócios ,autonomos, e-comer
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Prisma ORM](https://www.prisma.io/)
 - [PostgreSQL](https://www.postgresql.org/)
-- [Vercel](https://vercel.com/) para deploy
+- [Vercel](https://vercel.com/)
 
 ---
 
